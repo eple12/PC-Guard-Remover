@@ -4,18 +4,18 @@
 Cannot delete the "PC Guard" program? Try this.
 
 ## PC Guard?
-PC Guard is a program designed to stop users from visiting banned websites or downloading / playing games.
+PC Guard is a program designed to stop users from visiting banned websites or downloading/playing games.
 
 Annoying, huh?
 
-You can't even just delete it; You'll need a password for it(which is probably hidden, only the admin of your pc might know).
+You can't even just delete it; You'll need a password for it(which is probably hidden, only the admin of your PC might know).
 
 ## How to use
 Download this whole repository and unzip the .zip file.
 
-Find *main.exe*, right click on it, click *"Run as administrator"*.
+Find *main.exe*, right-click on it, and click *"Run as administrator"*.
 
-You have to restart your pc after the execution.
+You have to restart your PC after the execution.
 
 ## How do I delete this program?
 Well, this, PC Guard, is also a computer program.
