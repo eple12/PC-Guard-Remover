@@ -11,7 +11,7 @@ Annoying, huh?
 You can't even just delete it; You'll need a password for it(which is probably hidden, only the admin of your PC might know).
 
 ## How to use
-Download this whole repository and unzip the .zip file.
+Download this whole repository and unzip the .zip file.(Or, just download the *main.bat* file only.)
 
 Find *main.exe*, right-click on it, and click *"Run as administrator"*.
 
