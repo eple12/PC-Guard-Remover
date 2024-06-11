@@ -13,7 +13,7 @@ You can't even just delete it; You'll need a password for it(which is probably h
 ## How to use
 Download this whole repository and unzip the .zip file.(Or, just download the *main.bat* file only.)
 
-Find *main.exe*, right-click on it, and click *"Run as administrator"*.
+Find *main.bat*, right-click on it, and click *"Run as administrator"*.
 
 You have to restart your PC after the execution.(Your PC will automatically be restarted after the execution)
 
