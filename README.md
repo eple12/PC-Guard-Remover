@@ -17,8 +17,8 @@ Find *main.bat*, right-click on it, and click *"Run as administrator"*.
 
 You have to restart your PC after the execution.(Your PC will automatically be restarted after the execution)
 
-## How do I delete this program?
-Well, this, PC Guard, is also a computer program.
+## Can't I just delete the program folder?
+Well, it, PC Guard, is also a computer program.
 
 However, the program folder is hidden, and even if you find the location, you cannot just access the "private" folder(which contains the main .exe files and the .sys files).
 
