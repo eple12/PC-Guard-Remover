@@ -15,7 +15,7 @@ Download this whole repository and unzip the .zip file.
 
 Find *main.exe*, right-click on it, and click *"Run as administrator"*.
 
-You have to restart your PC after the execution.
+You have to restart your PC after the execution.(Your PC will automatically be restarted after the execution)
 
 ## How do I delete this program?
 Well, this, PC Guard, is also a computer program.
